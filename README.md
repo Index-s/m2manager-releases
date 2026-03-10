@@ -167,3 +167,4 @@ M2Manager Community is distributed as freeware.
 <p align="center">
   <sub>Built with ❤️ by Dex & Señor Zynko</sub>
 </p>
+
